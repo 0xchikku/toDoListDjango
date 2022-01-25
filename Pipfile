@@ -8,6 +8,8 @@ django = "*"
 pyyaml = "*"
 uritemplate = "*"
 drf-yasg = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
